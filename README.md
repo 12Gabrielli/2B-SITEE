@@ -253,3 +253,12 @@ font-size: 45px;
     width: 100px;
     filter: invert();
 }
+<html>
+   <head>
+      <title>StarBucks Coffee</litle>
+    <link href="css/style.css" rel="stylesheet" />
+    </head>
+    <body>
+
+    </body>
+<html>
